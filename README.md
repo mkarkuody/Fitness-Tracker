@@ -16,7 +16,7 @@ https://github.com/mkarkuody/Fitness-Tracker
 
 <img src="./public/images/fitness-tracker.jpg">
 
-<img src="./public/images/team-profile.jpg">
+<img src="./public/images/workoutChart.jpg">
 
 # Technologies;
 used Express and MongoDB database also Mongoose, 
